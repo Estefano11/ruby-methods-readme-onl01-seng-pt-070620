@@ -11,4 +11,4 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
-putslea phrase
+puts phrase
